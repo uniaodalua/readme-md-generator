@@ -15,7 +15,7 @@
     "load-json-file": "^6.0.0",
     "lodash": "^4.17.11",
     "markdown-escape": "^1.0.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.1.1",
     "ora": "4.0.3",
     "yargs": "^15.0.1"
   },
